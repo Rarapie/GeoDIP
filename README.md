@@ -1,12 +1,9 @@
 # GeoDIP
 
 GeoDIP is a command line tool that packages the original likelihood-ratio
-method and the 5C/EAS machine learning models into one interface. Given a
+method and the 5C/EAS machine learning models. Given a
 genotype table, it predicts population origin and prints a result table
 directly in the terminal.
-All frequency tables, models, and the example input live inside this
-directory; the software is self-contained and requires no extra data
-directory.
 
 Chinese version: [README_cn.md](./README_cn.md)
 
