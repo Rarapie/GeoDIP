@@ -8,7 +8,7 @@ All frequency tables, models, and the example input live inside this
 directory; the software is self-contained and requires no extra data
 directory.
 
-Chinese version: [README.md](./README.md)
+Chinese version: [README_cn.md](./README_cn.md)
 
 ## Features
 
