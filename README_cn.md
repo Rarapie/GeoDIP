@@ -1,4 +1,4 @@
-# GeoDIP Command Line Predictor
+# GeoDIP
 
 GeoDIP 命令行预测工具，将原始 LR 方法与 5C/EAS 机器学习模型封装为统一的命令行
 软件。用户提供一份基因型文件，即可完成群体来源预测，并在命令行中直接查看结果表格。
