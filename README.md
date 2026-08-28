@@ -1,4 +1,4 @@
-# GeoDIP Command Line Predictor
+# GeoDIP
 
 GeoDIP is a command line tool that packages the original likelihood-ratio
 method and the 5C/EAS machine learning models into one interface. Given a
