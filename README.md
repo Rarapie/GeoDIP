@@ -9,7 +9,7 @@ Chinese version: [README_cn.md](./README_cn.md)
 
 ## Features
 
-- Two prediction modes: `LR` (likelihood ratio / PAMP) and `ML` (machine
+- Two prediction modes: `LR` (likelihood ratio) and `ML` (machine
   learning classification).
 - Two prediction ranges: `5C` (Africa, Americas, East Asia, Europe, South
   Asia) and `EAS` (Han, Japanese, Southeast Asian).
